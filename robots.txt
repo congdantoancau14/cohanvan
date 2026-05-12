@@ -3,4 +3,4 @@ Disallow: /feeds
 Allow: /_/rsrc/
 Allow: /_/atari/*
 Disallow: /_/
-Sitemap: http://www.cohanvan.com:80/system/feeds/sitemap
+Sitemap: :80/system/feeds/sitemap
